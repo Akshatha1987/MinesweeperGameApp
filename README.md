@@ -1,2 +1,2 @@
-Overview This project is a console-based Minesweeper-style game where the player navigates from one side of a chessboard grid to the other while avoiding hidden mines.
-The player has a number of lives and loses one each time a mine is hit. The final score is the number of moves taken to reach the other side of the board.
+**Overview**
+This project is a console-based game inspired by Minesweeper. The objective is to navigate across a chessboard-style grid while avoiding hidden mines. Players start with a set number of lives, losing one each time they hit a mine. The final score is determined by the total number of moves required to successfully reach the other side of the board.
