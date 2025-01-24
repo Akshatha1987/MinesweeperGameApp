@@ -1,0 +1,15 @@
+C:\Users\ParameshwaraA\source\repos\MinesweeperGame\MinesweeperGame\bin\Debug\net8.0\MinesweeperGame.exe
+C:\Users\ParameshwaraA\source\repos\MinesweeperGame\MinesweeperGame\bin\Debug\net8.0\MinesweeperGame.deps.json
+C:\Users\ParameshwaraA\source\repos\MinesweeperGame\MinesweeperGame\bin\Debug\net8.0\MinesweeperGame.runtimeconfig.json
+C:\Users\ParameshwaraA\source\repos\MinesweeperGame\MinesweeperGame\bin\Debug\net8.0\MinesweeperGame.dll
+C:\Users\ParameshwaraA\source\repos\MinesweeperGame\MinesweeperGame\bin\Debug\net8.0\MinesweeperGame.pdb
+C:\Users\ParameshwaraA\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net8.0\MinesweeperGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ParameshwaraA\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net8.0\MinesweeperGame.AssemblyInfoInputs.cache
+C:\Users\ParameshwaraA\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net8.0\MinesweeperGame.AssemblyInfo.cs
+C:\Users\ParameshwaraA\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net8.0\MinesweeperGame.csproj.CoreCompileInputs.cache
+C:\Users\ParameshwaraA\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net8.0\MinesweeperGame.sourcelink.json
+C:\Users\ParameshwaraA\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net8.0\MinesweeperGame.dll
+C:\Users\ParameshwaraA\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net8.0\refint\MinesweeperGame.dll
+C:\Users\ParameshwaraA\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net8.0\MinesweeperGame.pdb
+C:\Users\ParameshwaraA\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net8.0\MinesweeperGame.genruntimeconfig.cache
+C:\Users\ParameshwaraA\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net8.0\ref\MinesweeperGame.dll
